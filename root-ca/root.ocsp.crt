@@ -1,0 +1,102 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            6a:88:2d:52:27:ef:9d:16:6b:af:95:71:1d:6d:e2:3e
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ES, O=teleco, CN=Root CA
+        Validity
+            Not Before: Jun 28 17:58:45 2024 GMT
+            Not After : Jun 23 17:58:45 2025 GMT
+        Subject: C=ES, O=teleco, CN=OCSP Root Responder
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:aa:34:50:f9:f9:cd:fc:c5:4b:eb:a1:9d:3d:ed:
+                    9e:43:70:e3:1f:ad:57:0f:1c:ed:34:6f:95:09:20:
+                    50:d1:8f:7e:d4:8a:21:49:1c:67:f2:a2:fb:b6:f3:
+                    3b:b5:50:66:0a:88:9b:07:71:e4:29:01:ef:ed:f6:
+                    b9:f6:6e:63:1b:09:f1:e5:47:58:c9:a0:09:10:4f:
+                    cf:71:b5:20:0a:3d:fd:ed:ab:3b:63:27:d6:58:c3:
+                    d0:70:f4:4c:4d:bc:61:dc:1f:47:14:75:cc:c2:39:
+                    d2:f4:04:82:ba:15:84:3c:df:97:be:01:69:39:5a:
+                    a5:2e:3f:fe:88:10:2c:34:64:11:92:de:43:1e:df:
+                    ce:e7:7a:9b:a6:db:65:b4:00:49:c0:a6:f0:04:e4:
+                    d0:09:9f:82:f8:4f:92:2a:d8:44:33:6c:24:06:3c:
+                    37:75:14:24:a3:5d:15:63:1d:38:e7:ee:d8:ec:86:
+                    60:45:68:96:0e:7d:7f:95:43:a3:6d:83:9f:86:cc:
+                    07:e5:60:8d:a9:41:cf:02:21:01:f8:fe:10:69:7a:
+                    03:a0:6f:12:92:96:6c:fd:62:e9:ff:86:5c:8e:9d:
+                    1a:31:ff:15:f1:af:a6:d0:98:c3:af:00:10:7a:3d:
+                    37:93:ed:35:7a:ca:50:31:8f:26:29:99:59:15:03:
+                    52:23
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                F8:DB:9E:DA:E8:20:2E:99:26:81:D7:F7:DB:46:18:5B:AB:D5:D0:A3
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                OCSP Signing
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Subject Key Identifier: 
+                F9:42:88:BB:0C:F0:CC:06:43:E7:B7:06:2E:06:0F:AE:D5:3C:F3:63
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        a7:5e:1f:b3:e3:82:6d:a3:02:71:85:af:c9:59:42:de:76:ec:
+        e5:32:f2:0d:bf:16:ed:b3:df:cb:de:aa:a0:dd:1d:f9:89:fa:
+        28:7f:b6:75:d1:d7:79:96:8d:39:a1:5f:e9:08:76:a9:64:9e:
+        61:bb:9b:b3:82:82:1e:3f:d9:e2:f3:25:d2:64:12:f5:c0:7c:
+        1d:66:2f:6a:4c:6f:e0:63:d7:c6:2c:1d:22:8c:92:8b:cc:3d:
+        35:d5:17:1c:8f:48:d0:05:b5:ff:77:86:df:d2:b2:44:11:8a:
+        c5:ab:52:c2:a3:07:7a:2c:bd:77:f9:d3:85:a4:39:a3:3f:21:
+        0e:2e:95:fe:0b:a6:b7:a6:95:bb:cd:61:6e:21:ea:d5:33:c4:
+        5d:0c:a0:33:6f:23:7b:0b:de:ba:2c:85:e4:25:8f:9e:f5:6a:
+        b7:f0:17:1f:92:8b:e5:0b:46:fd:96:c2:10:3c:ca:2b:a4:90:
+        22:25:6d:4d:3d:9d:8e:d6:41:e4:16:09:66:2c:a8:d4:ad:9d:
+        a0:1f:76:85:24:75:2f:0f:0e:3c:ba:9b:d7:a1:b9:7e:7e:80:
+        6e:c5:b1:b2:d1:ed:c5:bb:53:0e:8e:23:7d:f8:17:4d:92:d1:
+        7f:8d:2a:d3:bf:00:3c:f9:39:e4:dc:4f:78:49:a8:1a:66:1a:
+        fb:89:55:67:56:c5:3f:51:8c:f0:65:c7:51:89:6a:56:72:ec:
+        6d:c2:bc:37:78:f4:59:eb:63:2c:a2:4f:48:74:b3:e9:13:ef:
+        da:27:59:cb:12:9b:a1:61:e9:ed:e9:1a:42:29:db:46:c1:93:
+        7c:b2:b1:f2:33:c3:b3:fe:13:23:29:23:94:66:78:7e:ac:e3:
+        e4:a4:8b:0b:0b:61:29:28:55:0c:22:8b:8f:19:9d:b0:7c:a4:
+        5e:95:4f:e3:5a:f7:37:21:7c:da:e7:3a:14:bc:ed:47:db:41:
+        50:55:0e:ea:50:17:99:fd:96:01:b2:21:75:e4:c5:8c:4b:65:
+        28:2a:7c:64:92:08:1e:98:34:e8:36:94:e8:36:c5:85:b5:d8:
+        7d:92:b3:86:6b:5a:34:0e:40:7d:29:87:8e:b5:5a:66:ed:10:
+        32:cc:9e:a2:2b:73:f5:bd:5d:4f:38:47:e8:c0:44:c0:9a:89:
+        a5:98:28:f0:9b:71:36:18:d8:94:d3:b4:87:51:d1:56:b9:2c:
+        0b:87:fc:36:7a:06:91:d8:7d:0a:f1:a9:4a:4d:1a:66:a6:2f:
+        f5:82:39:a7:b2:f0:a0:7c:86:bf:b3:bc:5e:bf:73:50:d4:cd:
+        80:ec:89:95:bf:b0:3f:36:be:48:c5:c1:0b:3b:c6:26:42:28:
+        8f:be:26:00:8d:68:e5:4c
+-----BEGIN CERTIFICATE-----
+MIIEazCCAlOgAwIBAgIQaogtUifvnRZrr5VxHW3iPjANBgkqhkiG9w0BAQsFADAw
+MQswCQYDVQQGEwJFUzEPMA0GA1UECgwGdGVsZWNvMRAwDgYDVQQDDAdSb290IENB
+MB4XDTI0MDYyODE3NTg0NVoXDTI1MDYyMzE3NTg0NVowPDELMAkGA1UEBhMCRVMx
+DzANBgNVBAoMBnRlbGVjbzEcMBoGA1UEAwwTT0NTUCBSb290IFJlc3BvbmRlcjCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKo0UPn5zfzFS+uhnT3tnkNw
+4x+tVw8c7TRvlQkgUNGPftSKIUkcZ/Ki+7bzO7VQZgqImwdx5CkB7+32ufZuYxsJ
+8eVHWMmgCRBPz3G1IAo9/e2rO2Mn1ljD0HD0TE28YdwfRxR1zMI50vQEgroVhDzf
+l74BaTlapS4//ogQLDRkEZLeQx7fzud6m6bbZbQAScCm8ATk0AmfgvhPkirYRDNs
+JAY8N3UUJKNdFWMdOOfu2OyGYEVolg59f5VDo22Dn4bMB+VgjalBzwIhAfj+EGl6
+A6BvEpKWbP1i6f+GXI6dGjH/FfGvptCYw68AEHo9N5PtNXrKUDGPJimZWRUDUiMC
+AwEAAaN1MHMwHwYDVR0jBBgwFoAU+Nue2uggLpkmgdf320YYW6vV0KMwDAYDVR0T
+AQH/BAIwADATBgNVHSUEDDAKBggrBgEFBQcDCTAOBgNVHQ8BAf8EBAMCB4AwHQYD
+VR0OBBYEFPlCiLsM8MwGQ+e3Bi4GD67VPPNjMA0GCSqGSIb3DQEBCwUAA4ICAQCn
+Xh+z44JtowJxha/JWULeduzlMvINvxbts9/L3qqg3R35ifoof7Z10dd5lo05oV/p
+CHapZJ5hu5uzgoIeP9ni8yXSZBL1wHwdZi9qTG/gY9fGLB0ijJKLzD011Rccj0jQ
+BbX/d4bf0rJEEYrFq1LCowd6LL13+dOFpDmjPyEOLpX+C6a3ppW7zWFuIerVM8Rd
+DKAzbyN7C966LIXkJY+e9Wq38BcfkovlC0b9lsIQPMorpJAiJW1NPZ2O1kHkFglm
+LKjUrZ2gH3aFJHUvDw48upvXobl+foBuxbGy0e3Fu1MOjiN9+BdNktF/jSrTvwA8
++Tnk3E94SagaZhr7iVVnVsU/UYzwZcdRiWpWcuxtwrw3ePRZ62Msok9IdLPpE+/a
+J1nLEpuhYent6RpCKdtGwZN8srHyM8Oz/hMjKSOUZnh+rOPkpIsLC2EpKFUMIouP
+GZ2wfKRelU/jWvc3IXza5zoUvO1H20FQVQ7qUBeZ/ZYBsiF15MWMS2UoKnxkkgge
+mDToNpToNsWFtdh9krOGa1o0DkB9KYeOtVpm7RAyzJ6iK3P1vV1POEfowETAmoml
+mCjwm3E2GNiU07SHUdFWuSwLh/w2egaR2H0K8alKTRpmpi/1gjmnsvCgfIa/s7xe
+v3NQ1M2A7ImVv7A/Nr5IxcELO8YmQiiPviYAjWjlTA==
+-----END CERTIFICATE-----
