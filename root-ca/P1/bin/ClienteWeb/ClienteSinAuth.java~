@@ -1,0 +1,5 @@
+package ClienteWeb;
+
+public class ClienteSinAuth {
+
+}
